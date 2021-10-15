@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">Kotlin_1</string>
     <string name="Press">Нажмите</string>
+    <string name="Сброс">Сброс</string>
 </resources>
