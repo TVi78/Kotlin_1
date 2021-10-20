@@ -7,4 +7,5 @@ object Fruits {
         return newFruit.name
     }
 }
-data class Fruit1(val name: String="Груша", val number: Int=15)
+
+data class Fruit1(val name: String = "Груша", val number: Int = 15)
